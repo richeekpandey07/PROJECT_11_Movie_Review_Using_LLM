@@ -113,7 +113,7 @@ with st.sidebar:
 # TITLE
 # --------------------------------------------------
 st.markdown(
-    '<div class="title">🔥 KGF 2 AI Movie Review Analyzer 🔥</div>',
+    '<div class="title">🔥 KGF 2  Movie Review Analyzer 🔥</div>',
     unsafe_allow_html=True
 )
 
