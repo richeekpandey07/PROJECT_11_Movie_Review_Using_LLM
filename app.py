@@ -128,7 +128,7 @@ st.write("")
 # MOVIE POSTER
 # --------------------------------------------------
 try:
-    image = Image.open("kgf.jpg")
+    image = Image.open("KGF.jpg")
 
     st.image(
         image,
