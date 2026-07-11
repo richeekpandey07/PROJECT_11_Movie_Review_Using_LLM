@@ -262,31 +262,7 @@ if st.button("🔍 Analyze Sentiment"):
         st.write(
             f"**Confidence:** {confidence:.2f}%"
         )
-
-# --------------------------------------------------
-# SAMPLE REVIEWS
-# --------------------------------------------------
-st.markdown("---")
-
-st.subheader("🎬 Try Sample Reviews")
-
-sample1 = "KGF 2 is an amazing movie with powerful action and excellent performance."
-
-sample2 = "The movie was boring and the storyline was weak."
-
-col1, col2 = st.columns(2)
-
-with col1:
-
-    if st.button("🔥 Positive Sample"):
-        st.session_state.review = sample1
-        st.rerun()
-
-with col2:
-
-    if st.button("💀 Negative Sample"):
-        st.session_state.review = sample2
-        st.rerun()
+        
 
 # --------------------------------------------------
 # FOOTER
