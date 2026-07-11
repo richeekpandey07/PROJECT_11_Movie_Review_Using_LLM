@@ -82,7 +82,7 @@ with st.sidebar:
     )
 
     st.markdown(
-        "[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)"
+        "[🔗 LinkedIn](https://www.linkedin.com/in/richeek-pandey-9954783a9)"
     )
 
     st.markdown("---")
