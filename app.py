@@ -44,7 +44,7 @@ with st.sidebar:
     st.write("### Richeek Pandey")
 
     st.markdown(
-        "[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)"
+        "[🔗 LinkedIn](https://www.linkedin.com/in/richeek-pandey-9954783a9)"
     )
 
     st.markdown(
