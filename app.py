@@ -8,7 +8,7 @@ from transformers import pipeline
 # PAGE CONFIG
 # --------------------------------------------------
 st.set_page_config(
-    page_title="🔥 KGF 2 AI Movie Review Analyzer",
+    page_title="🔥 KGF 2 Movie Review Analyzer",
     page_icon="🎬",
     layout="wide"
 )
